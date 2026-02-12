@@ -308,7 +308,7 @@ button {
 
 <!-- 🎶 Música -->
 <audio autoplay loop>
-  <source src="iris-goo-goo-dolls.mp3" type="audio/mpeg">
+  <source src="iris-goo-goo-dolls.mpeg" type="audio/mpeg">
 </audio>
 
 <section class="hero">
