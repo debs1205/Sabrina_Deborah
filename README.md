@@ -307,8 +307,8 @@ button {
 <body>
 
 <!-- 🎶 Música -->
-<audio id="musica" loop>
-  <source src="iris-goo-goo-dolls.mpeg" type="audio/mpeg">
+<audio id="bgMusic" loop>
+  <source src="iris-goo-goo-dolls.mp3" type="audio/mpeg">
 </audio>
 
 <button onclick="document.getElementById('musica').play()">
