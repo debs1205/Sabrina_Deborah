@@ -317,7 +317,6 @@ button {
   <div>
     <h1>Sabrina & Deborah</h1>
     <p>Feliz 8 meses de noivado, meu amor..</p>
-
     <!-- 📸 Carrossel -->
     <div class="carousel">
       <div class="carousel-track">
@@ -332,7 +331,6 @@ button {
         <img src="foto22.jpeg">
       </div>
     </div>
-
     <!-- Frases -->
     <div class="phrases">
       <div class="phrase-card"><img src="postit1.jpeg"><p>Você é tudo que sempre sonhei</p></div>
@@ -367,7 +365,6 @@ button {
     <p class="fade-text delay-1">
       Essa foi mais uma forma de demonstrar o que sinto por você, espero que nunca duvide disso.
       Eu te escolho em todos os detalhes e em todos os dias da minha vida.
-  
       Você é a melhor decisão que tomei na vida.
     </p>
     <p class="fade-text delay-2">
